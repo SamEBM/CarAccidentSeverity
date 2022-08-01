@@ -1,2 +1,3 @@
-# Coursera_Capstone
-Applied Data Science Capstone Project
+# Car Accident Severity Prediction
+Applied Data Science Project
+<img src='https://github.com/SamEBM/CarAccidentSeverity/blob/master/crashOK.jpg' />
